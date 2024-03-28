@@ -1,6 +1,7 @@
 # RC Soccer Bot Arduino Code
 
 Welcome to the Arduino code repository for our CSE 104 project - the RC Soccer Bot! This project features a thrilling bot that can be controlled via Bluetooth technology.
+LinkedIn -> https://shorturl.at/swI08
 
 ## Overview
 
